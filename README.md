@@ -18,7 +18,7 @@
 
 ## 🌐 Connect with Me  
 - 📧 **Email:** globalxvikas@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/vikas](https://linkedin.com/in/vikas)  
+- 💼 **LinkedIn:** [linkedin.com/in/VikasMusham](https://www.linkedin.com/in/vikas-musham-947b382b0/)  
 - 🌍 **Portfolio:** [vikasfolio.netlify.app](https://vikasfolio.netlify.app)  
 
 ---
