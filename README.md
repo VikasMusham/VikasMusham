@@ -1,7 +1,7 @@
-<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vikas+%F0%9F%91%8B;Web+Developer+%7C+AI+Enthusiast+%7C+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vikas+%F0%9F%91%8B;Web+Developer+%7C+AI+Enthusiast;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me  
