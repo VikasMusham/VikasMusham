@@ -31,38 +31,6 @@ Artificial Intelligence • System Design • Cloud Applications • Real-Time S
 
 ---
 
-## Selected Projects
-
-### Emotion-Aware Study Schedule Recommender  
-AI-driven system that analyzes behavioral and mood patterns to recommend optimized study schedules.
-
-**Key Highlights:**
-- Data-driven decision modeling  
-- Predictive analysis approach  
-- Designed for real-world academic environments  
-
----
-
-### ExamBuddy – Smart Exam Preparation Platform  
-An intelligent platform that converts notes into quizzes, summaries, and personalized study plans.
-
-**Key Highlights:**
-- AI-assisted learning workflows  
-- Productivity-focused design  
-- Student-centric architecture  
-
----
-
-### MindSync – Real-Time Collaborative Study Platform  
-A collaborative ecosystem supporting group study through live interaction and shared learning tools.
-
-**Key Highlights:**
-- Real-time communication architecture  
-- Designed for scalability  
-- Focused on engagement and usability  
-
----
-
 ## Currently Engineering
 
 - AI-powered academic productivity systems  
