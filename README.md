@@ -1,71 +1,78 @@
-<!-- ================= HERO ================= -->
-
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">AI Builder • Full Stack Developer • CSE @ SR University</h3>
+<h1 align="center">Vikas Musham</h1>
 
 <p align="center">
-Building real-world products with AI, scalable systems, and modern web technologies.
+Computer Science Engineer • AI-Focused Developer • Full Stack Builder
+</p>
+
+<p align="center">
+Building scalable software and intelligent systems that solve real-world problems.
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+## Professional Summary
 
-## 👨‍💻 About Me
+Computer Science and Engineering student with a strong interest in Artificial Intelligence, full-stack development, and scalable application architecture. Experienced in designing and developing real-world software solutions, with a focus on performance, usability, and practical impact.
 
-🎓 Computer Science & Engineering Student (2023–2027)  
-🚀 Passionate about **AI + Full Stack Development**  
-💡 Love turning ideas into real-world products  
-🌱 Currently exploring **intelligent apps and real-time platforms**
+Demonstrates proactive learning, strong problem-solving ability, and a commitment to engineering best practices.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## Core Competencies
 
-## 🚀 Tech Stack
+**Programming Languages**  
+Python • Java • JavaScript • HTML • CSS  
 
-### Languages
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3)
+**Technologies & Tools**  
+Git • GitHub • Firebase • REST APIs • VS Code  
 
-### Tools
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase)
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode)
+**Areas of Interest**  
+Artificial Intelligence • System Design • Cloud Applications • Real-Time Systems • Data-Driven Products  
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## Selected Projects
 
-## 🛠 Featured Projects
+### Emotion-Aware Study Schedule Recommender  
+AI-driven system that analyzes behavioral and mood patterns to recommend optimized study schedules.
 
-### 🛍️ LUXE Clothing Store  
-🔗 https://github.com/VikasMusham/LUXE-Clothing-store  
-Modern e-commerce platform focused on performance and clean UI.
-
----
-
-### 🤖 Mia — AI Voice Assistant  
-🔗 https://github.com/VikasMusham/MiaAssistant-AI-Project  
-AI-powered personal assistant with voice interaction.
+**Key Highlights:**
+- Data-driven decision modeling  
+- Predictive analysis approach  
+- Designed for real-world academic environments  
 
 ---
 
-### 🔗 CodeShare  
-🔗 https://github.com/VikasMusham/codetext  
-Share text/code instantly using a secure unique code.
+### ExamBuddy – Smart Exam Preparation Platform  
+An intelligent platform that converts notes into quizzes, summaries, and personalized study plans.
+
+**Key Highlights:**
+- AI-assisted learning workflows  
+- Productivity-focused design  
+- Student-centric architecture  
 
 ---
 
-<!-- ================= STATS ================= -->
+### MindSync – Real-Time Collaborative Study Platform  
+A collaborative ecosystem supporting group study through live interaction and shared learning tools.
 
-## 📊 GitHub Stats
+**Key Highlights:**
+- Real-time communication architecture  
+- Designed for scalability  
+- Focused on engagement and usability  
 
-> ⚠️ If stats don’t load once, hard refresh (Ctrl + Shift + R)
+---
+
+## Currently Engineering
+
+- AI-powered academic productivity systems  
+- Intelligent recommendation platforms  
+- Scalable web applications  
+- Real-time collaborative technologies  
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=VikasMusham&show_icons=true&hide_border=true&cache_seconds=86400" height="165"/>
@@ -74,18 +81,27 @@ Share text/code instantly using a secure unique code.
 
 ---
 
-<!-- ================= CONNECT ================= -->
+## Professional Goals
 
-## 🌐 Connect With Me
+Focused on becoming a highly capable software engineer specializing in intelligent systems and large-scale applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/VikasMusham)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel)](https://vikasfolio.netlify.app)
-
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail)](mailto:globalxvikas@gmail.com)
+Committed to continuous learning, technical depth, and building technology that delivers meaningful impact.
 
 ---
 
-<!-- ================= FOOTER ================= -->
+## Professional Profiles
 
-⭐️ From Vikas — *"Code. Build. Innovate."*
+**LinkedIn:**  
+https://linkedin.com/in/VikasMusham  
+
+**Portfolio:**  
+https://vikasfolio.netlify.app  
+
+**Email:**  
+globalxvikas@gmail.com  
+
+---
+
+<p align="center">
+Open to internships, research opportunities, and high-impact engineering collaborations.
+</p>
